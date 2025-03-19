@@ -1,8 +1,18 @@
+@font-face{
+    font-family: gilroy1;
+    src: url(./fonts/Montreal-Bold.woff);
+}
+@font-face{
+    font-family: gilroy2;
+    src: url(./fonts/Montreal-Regular.woff);
+}
+
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: gilroy;
+    font-family: gilroy2;
     color: #fff;
 }
 
